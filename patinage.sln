@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patinage", "patinage\patinage.csproj", "{BCA9A760-5C68-4762-8CF1-63AEE4DC003A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA9A760-5C68-4762-8CF1-63AEE4DC003A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA9A760-5C68-4762-8CF1-63AEE4DC003A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA9A760-5C68-4762-8CF1-63AEE4DC003A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA9A760-5C68-4762-8CF1-63AEE4DC003A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {602B2E50-3EEA-46F0-BC2B-E0E78553F512}
+	EndGlobalSection
+EndGlobal
